@@ -2,7 +2,7 @@
 package student_spring_22_fri;
 import java.util.Scanner;
 /**
- *
+ * comments test
  * @author TheMu
  */
 public class Student_spring_22_fri {
